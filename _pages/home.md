@@ -1,7 +1,7 @@
 ---
 title: "ransundet.nu"
 layout: splash
-permalink: /
+permalink: /home/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"

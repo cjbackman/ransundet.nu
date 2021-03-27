@@ -1,4 +1,6 @@
 main:
+  - title: "Start"
+    url: /home/
   - title: "Fiske"
     url: /fishing/
   - title: "Boende"

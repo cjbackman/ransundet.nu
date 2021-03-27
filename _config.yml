@@ -13,6 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+baseurl: /home
 title: ransundet.nu
 email: info@ransundet.nu
 description: >- # this means to ignore newlines until "baseurl:"
@@ -76,10 +77,13 @@ plugins:
 #       url: "https://instagram.com/"
 
 footer:
-  links:
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "info@ransundet.nu"
+  # links:
+  #   - label: "info"
+  #     icon: "fab fa-fw fa-envelope"
+  #     url: "info@ransundet.nu"
+
+atom_feed: 
+  hide: true
 
 defaults:
   # _posts
