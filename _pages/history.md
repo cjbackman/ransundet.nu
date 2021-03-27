@@ -3,7 +3,7 @@ permalink: /history/
 title: "Historia"
 ---
 
-Byn grundades våren 1825 av Olov Jönsson och Halvar Persson, bördiga från Hede respektive Långå. Anledningen bosattningen, det vill säga den plats där byn Ransundet ligger idag, var fiske- och jaktmöjligheterna som området erbjöd. Samt relativt goda sommarbeten för kossorna. Till en början, innan några hus var byggda, hade de endast en grovt tillyxad gran som skydd mot vädrets makter.
+Byn grundades våren 1825 av Olov Jönsson och Halvar Persson, bördiga från Hede respektive Långå. Anledningen till bosattningen, det vill säga den plats där byn Ransundet ligger idag, var fiske- och jaktmöjligheterna som området erbjöd. Samt relativt goda sommarbeten för kossorna. Till en början, innan några hus var byggda, hade de endast en grovt tillyxad gran som skydd mot vädrets makter.
 
 Idag utgörs byn av fem stora gårdar; Pelles, Jens, Påles, Bygget och Mattes. Som mest har det funnits omkring 40 stycken bofasta personer i byn. I dagsläget finns fem permanenta invånare.
 
