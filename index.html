@@ -1,7 +1,37 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+---
+title: "Välkommen"
 layout: splash
-author_profile: false
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/unsplash-image-1.jpg
+
+excerpt: "Ransundet är platsen för dig som vill njuta av den norrländska naturen till fullo. Med ett vackert landskap och ett brett utbud av utmärkta fiskevatten finns här något för alla naturintresserade."
+
+feature_row:
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    title: "Fiske"
+    excerpt: "Text om fiskekort"
+    url: "/fishing"
+    btn_label: "Köp fiskekort"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    title: "Boende"
+    excerpt: "Text om boende"
+    url: "/accomodation"
+    btn_label: "Hitta boende"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    title: "Historia"
+    excerpt: "Text om historien"
+    url: "/history"
+    btn_label: "Läs historien"
+    btn_class: "btn--primary"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row %}
 ---
