@@ -76,10 +76,13 @@ plugins:
 #       url: "https://instagram.com/"
 
 footer:
-  # links:
-  #   - label: "info"
-  #     icon: "fab fa-fw fa-envelope"
+  links:
+    - label: "info@ransundet.nu"
+      icon: "fab fa-fw fa-envelope"
   #     url: "info@ransundet.nu"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
