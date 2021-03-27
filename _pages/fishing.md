@@ -7,7 +7,7 @@ I Ransundet finns det goda möjligheter till fiske och andra naturupplevelser. 1
 
 {% include map.html %}
 
-## Köpa fiskekort
+## Fiskekort
 
 Köp fiskekorten online och få bekräftelsen via mail och sms på [iFiske](https://www.ifiske.se/fiskekort-ransundssjon-storrassen-mfl.htm).
 
@@ -29,7 +29,7 @@ Köp fiskekorten online och få bekräftelsen via mail och sms på [iFiske](http
 ## Bestämmelser
 Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Råndan. Fiske efter öring och röding under lektiden **1 sept - 31 okt är förbjudet**.
 
-### Tillgänglighet
+## Tillgänglighet
 
 **Råndan.** Råndan är lättåtkomlig från bilväg som sträcker sig längs ån. Vindskydd och utedass finns efter Råndan söder om Ransundsjön.
 
