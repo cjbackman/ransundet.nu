@@ -1,7 +1,6 @@
 ---
+permalink: /gallery/
 title: "Galleri"
-layout: splash
-permalink: /gallery
 
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
