@@ -1,11 +1,13 @@
 main:
   - title: "Start"
-    url: /home/
+    url: /
   - title: "Fiske"
     url: /fishing/
   - title: "Boende"
     url: /accomodation/
   - title: "Historia"
     url: /history/
+  - title: "Galleri"
+    url: /gallery/
   #- title: "Blogg"
   #  url: /posts/

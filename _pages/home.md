@@ -1,35 +1,31 @@
 ---
-title: "ransundet.nu"
+title: "Välkommen"
 layout: splash
-permalink: /home/
+permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 
-excerpt: "Lite introtext"
+excerpt: "Ransundet är platsen för dig som vill njuta av den norrländska naturen till fullo. Med ett vackert landskap och ett brett utbud av utmärkta fiskevatten finns här något för alla naturintresserade."
 
 feature_row:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Fiske"
+    excerpt: "Text om fiskekort"
+    url: "/fishing"
     btn_label: "Köp fiskekort"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Hitta boende fiskekort"
+    title: "Boende"
+    excerpt: "Text om boende"
+    url: "/accomodation"
+    btn_label: "Hitta boende"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
+    title: "Historia"
+    excerpt: "Text om historien"
+    url: "/history"
     btn_label: "Läs historien"
     btn_class: "btn--primary"
 ---
