@@ -3,4 +3,4 @@ permalink: /accomodation/
 title: "Boende"
 ---
 
-{% include airbnb.html %}
+{% include _pages/airbnb.html %}

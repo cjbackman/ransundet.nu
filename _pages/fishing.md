@@ -54,4 +54,4 @@ Samtliga sjöar i Ransundets FVO innehåller primärt öring och röding. I Rans
 * Storrassen
 * Lillrassen
 
-{% include map.html %}
+{% include _pages/map.html %}
