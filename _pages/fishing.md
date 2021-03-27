@@ -11,7 +11,7 @@ I Ransundet finns det goda möjligheter till fiske och andra naturupplevelser. 1
 
 Köp fiskekorten online och få bekräftelsen via mail och sms på [iFiske](https://www.ifiske.se/fiskekort-ransundssjon-storrassen-mfl.htm).
 
-![iFiske](assets/images/ifiske.png)
+![iFiske](/assets/images/ifiske.png)
 
 
 ### Priser
