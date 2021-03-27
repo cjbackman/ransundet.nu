@@ -5,16 +5,18 @@ title: "Fiske"
 
 I Ransundet finns det goda möjligheter till fiske och andra naturupplevelser. 12 tjärnar och sjöar samt 15 km strömmande vatten finns till förfogande inom Ransundets fiskevårdsområde (Ransundets FVO).
 
-## Fiskekort
+{% include map.html %}
+
+## Köpa fiskekort
 
 Köp fiskekorten online och få bekräftelsen via mail och sms på [iFiske](https://www.ifiske.se/fiskekort-ransundssjon-storrassen-mfl.htm).
 
 ### Priser
 
-* 100 kr/dag
-* 200 kr/3 dygn
-* 300 kr/vecka
-* 500 kr/år
+* Dagskort 100 SEK
+* 3-dygnskort 200 SEK
+* Veckokort 300 SEK
+* Årskort 500 SEK
 
 ### Försäljningsställen
 
@@ -24,7 +26,7 @@ Köp fiskekorten online och få bekräftelsen via mail och sms på [iFiske](http
 * Preem, Hede, 0684 - 102 62
 * Turistbyrån, Hede, 0684 - 500 50
 
-### Bestämmelser
+## Bestämmelser
 Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Råndan. Fiske efter öring och röding under lektiden **1 sept - 31 okt är förbjudet**.
 
 ### Tillgänglighet
@@ -37,7 +39,7 @@ Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Rånd
 
 **Övrigt.** Vid Rånden, Stöpsjön och Spjuttjärn finns vindskydd med utedass samt vid Gällerötjärn finns raststuga även där finns utedass.
 
-### Sjöar
+## Sjöar
 
 Samtliga sjöar i Ransundets FVO innehåller primärt öring och röding. I Ransundetssjön återfinns även aborre. De sjöar som ingår i Ransundets FVO listas nedan.
 
@@ -53,5 +55,3 @@ Samtliga sjöar i Ransundets FVO innehåller primärt öring och röding. I Rans
 * Ransundssjön
 * Storrassen
 * Lillrassen
-
-{% include map.html %}
