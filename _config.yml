@@ -18,7 +18,7 @@ title: ransundet.nu
 email: info@ransundet.nu
 description: >- # this means to ignore newlines until "baseurl:"
   Webpage of the great city of Ransundet, Härjedalen, Sweden.
-minimal_mistakes_skin: default
+minimal_mistakes_skin: air
 locale: "sv-SE"
 
 # Build settings
