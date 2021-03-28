@@ -41,7 +41,7 @@ Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Rånd
 
 ## Sjöar
 
-Samtliga sjöar i Ransundets FVO innehåller primärt öring och röding. I Ransundetssjön återfinns även aborre. De sjöar som ingår i Ransundets FVO listas nedan.
+Samtliga sjöar i Ransundets FVO innehåller primärt öring och röding. I Ransundetssjön återfinns även abborre. De sjöar som ingår i Ransundets FVO listas nedan.
 
 * Storharrtjärnen
 * Rörsjön
