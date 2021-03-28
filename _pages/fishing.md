@@ -5,7 +5,7 @@ title: "Fiske"
 
 I Ransundet finns det goda möjligheter till fiske och andra naturupplevelser. 12 sjöar och sjöar samt 15 km strömmande vatten finns till förfogande inom Ransundets fiskevårdsområde (Ransundets FVO).
 
-![FVO](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/fvo_karta.jpg)
+![FVO](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/fvo_karta.png)
 
 ## Fiskekort
 
