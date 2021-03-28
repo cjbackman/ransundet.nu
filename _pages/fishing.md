@@ -29,11 +29,11 @@ Det går även att köpa fiskekort på följande ställen:
 * Årskort 500 SEK
 
 ## Bestämmelser
-Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Råndan. Fiske efter öring och röding under lektiden **1 sept - 31 okt är förbjudet**.
+Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Rånden. Fiske efter öring och röding under lektiden **1 sept - 31 okt är förbjudet**.
 
 ## Tillgänglighet
 
-**Rånden.** Rånden är lättåtkomlig från bilväg som sträcker sig längs ån. Vindskydd och utedass finns efter Råndan söder om Ransundsjön.
+**Rånden.** Rånden är lättåtkomlig från bilväg som sträcker sig längs ån. Vindskydd och utedass finns efter Rånden söder om Ransundsjön.
 
 **Ransundssjön.** Ransundssjön ligger i Ransundet med gångavstånd från parkering.
 
