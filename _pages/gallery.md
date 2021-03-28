@@ -75,26 +75,6 @@ gallery:
     image_path: /assets/images/gallery/35.jpg
   - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/36.jpg
     image_path: /assets/images/gallery/36.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/37.jpg
-    image_path: /assets/images/gallery/37.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/38.jpg
-    image_path: /assets/images/gallery/38.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/39.jpg
-    image_path: /assets/images/gallery/39.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/40.jpg
-    image_path: /assets/images/gallery/40.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/41.jpg
-    image_path: /assets/images/gallery/41.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/42.jpg
-    image_path: /assets/images/gallery/42.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/43.jpg
-    image_path: /assets/images/gallery/43.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/44.jpg
-    image_path: /assets/images/gallery/44.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/45.jpg
-    image_path: /assets/images/gallery/45.jpg
-  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/46.jpg
-    image_path: /assets/images/gallery/46.jpg
 ---
 
 {% include gallery layout="third" %}
