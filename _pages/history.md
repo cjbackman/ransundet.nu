@@ -9,11 +9,8 @@ Idag utgörs byn av fem stora gårdar; Pelles, Jens, Påles, Bygget och Mattes. 
 
 ## Viktiga årtal
 
-* 1825 - byn grundläggs
-* 1936 - riktig väg till byn bryts
-* 1971 - vilthägn öppnas i byn
-* 2003 - Ransundet får gatubelysning
-* 2006 - invånarantalet ökar med 33%
+![Tidslinje](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/timeline.jpg)
+
 
 ## Påskaftons fisketävling
 
