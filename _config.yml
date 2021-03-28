@@ -38,11 +38,14 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-footer:
-  links:
-    - label: "info@ransundet.nu"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:info@ransundet.nu"
+# footer:
+#   links:
+#     - label: "info@ransundet.nu"
+#       icon: "fab fa-fw fa-envelope"
+#       url: "mailto:info@ransundet.nu"
+
+atom_feed:
+  hide: true
 
 defaults:
   - scope:

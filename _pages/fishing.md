@@ -33,13 +33,11 @@ Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Rånd
 
 ## Tillgänglighet
 
-**Råndan.** Råndan är lättåtkomlig från bilväg som sträcker sig längs ån. Vindskydd och utedass finns efter Råndan söder om Ransundsjön.
+**Rånden.** Rånden är lättåtkomlig från bilväg som sträcker sig längs ån. Vindskydd och utedass finns efter Råndan söder om Ransundsjön.
 
 **Ransundssjön.** Ransundssjön ligger i Ransundet med gångavstånd från parkering.
 
-**Övriga sjöar.** Övriga sjöar är väl utmärkta med skyltar vid befintliga stigar och leder.
-
-**Övrigt.** Vid Rånden, Stöpsjön och Spjuttjärn finns vindskydd med utedass samt vid Gällerötjärn finns raststuga även där finns utedass.
+**Övrigt.** Övriga sjöar är väl utmärkta med skyltar vid befintliga stigar och leder. Vid Rånden, Stöpsjön och Spjuttjärn finns vindskydd med utedass samt vid Gällerötjärn finns raststuga även där finns utedass.
 
 ## Sjöar
 
