@@ -7,7 +7,7 @@ Byn grundades våren 1825 av Olov Jönsson och Halvar Persson, bördiga från He
 
 Idag utgörs byn av fem stora gårdar; Pelles, Jens, Påles, Bygget och Mattes. Som mest har det funnits omkring 40 stycken bofasta personer i byn. I dagsläget finns fem permanenta invånare.
 
-## Viktiga årtal
+## Tidslinje
 
 ![Tidslinje](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/timeline.jpg)
 
