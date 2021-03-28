@@ -13,6 +13,13 @@ Köp fiskekorten online och få bekräftelsen via mail och sms på [iFiske](http
 
 ![iFiske](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/ifiske.png)
 
+Det går även att köpa fiskekort på följande ställen:
+
+* Kortautomat, [Ransundet](https://goo.gl/maps/RoQYGQepDzytngEL8)
+* Karl-Ivar Persson, 070-209 35 17, [Ransundet](https://goo.gl/maps/tJ22soxXNKhotreW8)
+* [Jônnbua, Hede](https://www.jonnbua.se/)
+* [HP Motor, Hede](http://www.hp-motor.se/)
+* [Turistbyrån, Hede](https://www.facebook.com/sonfjalletnaturochkultur/)
 
 ### Priser
 
@@ -20,14 +27,6 @@ Köp fiskekorten online och få bekräftelsen via mail och sms på [iFiske](http
 * 3-dygnskort 200 SEK
 * Veckokort 300 SEK
 * Årskort 500 SEK
-
-### Försäljningsställen
-
-* Kortautomat i Ransundet
-* Kalle/Gunnel Persson, Ransundet, 0684 - 620 15
-* Jônnbua, Hede, 0684 - 101 30
-* Preem, Hede, 0684 - 102 62
-* Turistbyrån, Hede, 0684 - 500 50
 
 ## Bestämmelser
 Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Råndan. Fiske efter öring och röding under lektiden **1 sept - 31 okt är förbjudet**.
