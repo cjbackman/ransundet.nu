@@ -1,3 +1,3 @@
-# ransundet.nu
+# Ransundet
 
-Källkoden för [ransundet.nu](https://ransundet.nu).
+Source code of [ransundet.nu](https://ransundet.nu).
