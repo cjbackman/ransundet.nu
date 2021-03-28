@@ -4,12 +4,10 @@ main:
   - title: "Fiske"
     url: /fishing/
   - title: "Boende"
-    url: /accomodation/
+    url: /accommodation/
   - title: "Historia"
     url: /history/
   - title: "Galleri"
     url: /gallery/
   - title: "Kontakt"
     url: /contact/
-  #- title: "Blogg"
-  #  url: /posts/
