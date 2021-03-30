@@ -26,7 +26,7 @@ Det går även att köpa fiskekort på följande ställen:
 Gitlighet | Pris
 --- | --- | ---
 1 dygn | 100 SEK
-3 dyng | 200 SEK
+3 dygn | 200 SEK
 1 vecka | 300 SEK
 1 år | 500 SEK
 
@@ -49,7 +49,7 @@ Samtliga sjöar i Ransundets FVO innehåller framför allt öring och röding. I
 * Rörsjön
 * Stöpsjön
 * Spjuttjärnen
-* Gällerödtjärnen
+* Gällerötjärnen
 * Långjsön
 * Långsjötjärnen
 * Grimstjärnen
