@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 // $primary-color: #0092ca !default;
-$primary-color: #006400 !default; // override primary color
+$primary-color: lightskyblue !default; // override primary color
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
