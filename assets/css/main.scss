@@ -8,16 +8,7 @@
 $primary-color: lightskyblue !default;
 
 $buttoncolors:
-(primary, lightgrey),
-(inverse, #fff),
-(light-outline, transparent),
-(success, $success-color),
-(warning, $warning-color),
-(danger, $danger-color),
-(info, $info-color),
-(facebook, $facebook-color),
-(twitter, $twitter-color),
-(linkedin, $linkedin-color);
+(primary, lightgrey);
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
