@@ -11,6 +11,8 @@ Idag utgörs byn av fem stora gårdar; Pelles, Jens, Påles, Bygget och Mattes. 
 
 [ ![Tidslinje](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/tidslinje.jpg) ](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/tidslinje.jpg)
 
+[ ![Tidningsurklipp](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/tidningsurklipp.jpg) ](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/tidningsurklipp.jpg)
+
 
 ## Påskaftons fisketävling
 
