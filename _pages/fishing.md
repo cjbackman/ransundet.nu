@@ -5,13 +5,13 @@ title: "Fiske"
 
 I Ransundet finns det goda möjligheter till fiske och andra naturupplevelser. Totalt 12 sjöar och 15 km strömmande vatten finns till förfogande inom Ransundets fiskevårdsområde (FVO).
 
-![FVO](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/fvo_karta.png)
+[ ![FVO](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/fvo_karta.png) ](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/fvo_karta.png)
 
 ## Fiskekort
 
 Köp ditt fiskekort online och få bekräftelsen via mail och sms på [iFiske](https://www.ifiske.se/fiskekort-ransundssjon-storrassen-mfl.htm).
 
-![iFiske](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/ifiske.png)
+[ ![iFiske](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/ifiske.png) ](https://www.ifiske.se/fiskekort-ransundssjon-storrassen-mfl.htm)
 
 Det går även att köpa fiskekort på följande ställen:
 
