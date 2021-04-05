@@ -20,6 +20,7 @@ Det går även att köpa fiskekort på följande ställen:
 * [Jônnbua, Hede](https://www.jonnbua.se/)
 * [HP Motor, Hede](http://www.hp-motor.se/)
 * [Turistbyrån, Hede](https://www.facebook.com/sonfjalletnaturochkultur/)
+* [Jennys Stugor, Långå](http://www.jennysstugor.se/sommar/sv/index.html)
 
 ### Priser
 
