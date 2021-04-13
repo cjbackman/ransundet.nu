@@ -31,7 +31,12 @@ Gitlighet | Pris
 1 vecka | 300 SEK
 1 år | 500 SEK
 
+## Båtuthyrning
+
+Båtar att hyra finns vid vissa fiskevatten inom Ransundets FVO. För frågor gällande detta vänligen kontakta Karl-Ivar Persson, 070-209 35 17, [Ransundet](https://goo.gl/maps/tJ22soxXNKhotreW8).
+
 ## Bestämmelser
+
 Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Rånden. **Fiske efter öring och röding under lektiden 1 sept - 31 okt är förbjudet**.
 
 ## Tillgänglighet
