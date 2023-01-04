@@ -29,7 +29,7 @@ Gitlighet | Pris
 1 dygn | 100 SEK
 3 dygn | 200 SEK
 1 vecka | 300 SEK
-1 kalenderår | 500 SEK
+1 kalenderår | 700 SEK
 
 Observera att årskorten gäller för kalenderår. Det betyder att om du köper ett årskort i till exempel juni så är det giltigt juni-december och **inte** 12 månader efter inköpstillfället. 
 
