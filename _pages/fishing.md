@@ -16,7 +16,7 @@ Köp ditt fiskekort online och få bekräftelsen via mail och sms på [iFiske](h
 Det går även att köpa fiskekort på följande ställen:
 
 * Kortautomat, [Ransundet](https://goo.gl/maps/RoQYGQepDzytngEL8)
-* Karl-Ivar Persson, 070-209 35 17, [Ransundet](https://goo.gl/maps/tJ22soxXNKhotreW8)
+* Karl-Ivar Persson, [070-475 94 24](tel:+46704759424), [Ransundet](https://goo.gl/maps/tJ22soxXNKhotreW8)
 * [Jônnbua, Hede](https://www.jonnbua.se/)
 * [HP Motor, Hede](http://www.hp-motor.se/)
 * [Turistbyrån, Hede](https://www.facebook.com/sonfjalletnaturochkultur/)
