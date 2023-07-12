@@ -109,6 +109,8 @@ gallery:
     image_path: /assets/images/gallery/52.jpg
   - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/53.jpg
     image_path: /assets/images/gallery/53.jpg
+  - url: https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/gallery/54.jpg
+    image_path: /assets/images/gallery/54.jpg
 ---
 
 {% include gallery layout="third" %}
