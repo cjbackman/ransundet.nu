@@ -3,7 +3,7 @@ permalink: /fishing/
 title: "Fiske"
 ---
 
-I Ransundet finns det goda möjligheter till fiske och andra naturupplevelser. Totalt 12 sjöar och 15 km strömmande vatten finns till förfogande inom Ransundets fiskevårdsområde (FVO).
+I Ransundet finns det goda möjligheter till fiske och andra naturupplevelser. Totalt 12 sjöar och 15 km strömmande vatten står till förfogande inom Ransundets fiskevårdsområde (FVO).
 
 [ ![FVO](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/fvo_karta.png) ](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/fvo_karta.png)
 
@@ -15,23 +15,23 @@ Köp ditt fiskekort online och få bekräftelsen via mail och sms på [iFiske](h
 
 Det går även att köpa fiskekort på följande ställen:
 
-* Kortautomat, [Ransundet](https://goo.gl/maps/RoQYGQepDzytngEL8)
-* Karl-Ivar Persson, [070-475 94 24](tel:+46704759424), [Ransundet](https://goo.gl/maps/tJ22soxXNKhotreW8)
-* [Jônnbua, Hede](https://www.jonnbua.se/)
-* [HP Motor, Hede](http://www.hp-motor.se/)
-* [Turistbyrån, Hede](https://www.facebook.com/sonfjalletnaturochkultur/)
-* [Jennys Stugor, Långå](http://www.jennysstugor.se/sommar/sv/index.html)
+- Kortautomat, [Ransundet](https://goo.gl/maps/RoQYGQepDzytngEL8)
+- Karl-Ivar Persson, [070-475 94 24](tel:+46704759424), [Ransundet](https://goo.gl/maps/tJ22soxXNKhotreW8)
+- [Jônnbua, Hede](https://www.jonnbua.se/)
+- [HP Motor, Hede](http://www.hp-motor.se/)
+- [Turistbyrån, Hede](https://www.facebook.com/sonfjalletnaturochkultur/)
+- [Jennys Stugor, Långå](http://www.jennysstugor.se/sommar/sv/index.html)
 
 ### Priser
 
-Gitlighet | Pris
---- | --- | ---
-1 dygn | 100 SEK
-3 dygn | 200 SEK
-1 vecka | 300 SEK
-1 kalenderår | 700 SEK
+| Gitlighet    | Pris    |
+| ------------ | ------- |
+| 1 dygn       | 100 SEK |
+| 3 dygn       | 200 SEK |
+| 1 vecka      | 300 SEK |
+| 1 kalenderår | 700 SEK |
 
-Observera att årskorten gäller för kalenderår. Det betyder att om du köper ett årskort i till exempel juni så är det giltigt juni-december och **inte** 12 månader efter inköpstillfället. 
+Observera att årskorten gäller för kalenderår. Det betyder att om du köper ett årskort i till exempel juni så är det giltigt juni-december och **inte** 12 månader efter inköpstillfället.
 
 ## Båtuthyrning
 
@@ -53,15 +53,15 @@ Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Rånd
 
 Samtliga sjöar i Ransundets FVO innehåller framför allt öring och röding. I Ransundssjön finns även abborre. De sjöar som ingår i Ransundets FVO listas nedan.
 
-* Storharrtjärnen
-* Rörsjön
-* Stöpsjön
-* Spjuttjärnen
-* Gällerötjärnen
-* Långjsön
-* Långsjötjärnen
-* Grimstjärnen
-* Ormtjärnen
-* Ransundssjön
-* Storrassen
-* Lillrassen
+- Storharrtjärnen
+- Rörsjön
+- Stöpsjön
+- Spjuttjärnen
+- Gällerötjärnen
+- Långjsön
+- Långsjötjärnen
+- Grimstjärnen
+- Ormtjärnen
+- Ransundssjön
+- Storrassen
+- Lillrassen
