@@ -5,8 +5,8 @@ main:
     url: /fishing/
   - title: "Boende"
     url: /accommodation/
-  - title: "Historia"
-    url: /history/
+  - title: "Byn"
+    url: /info/
   - title: "Galleri"
     url: /gallery/
   - title: "Kontakt"
