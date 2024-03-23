@@ -7,7 +7,7 @@ Här finns allehanda information om byn.
 
 ## Hjärtstartare
 
-Ransundets by är utrustad med en hjärtstartare. Den är belägen i WC:n i huvudbyggnaden på gården Påles 118. Ingående är vid gaveln mot norr. Se bilder nedan.
+Ransundets by är utrustad med en hjärtstartare. Den är belägen i WC:n i huvudbyggnaden på gården Påles 118. Ingången är vid gaveln mot norr. Se bilder nedan.
 
 [ ![Gården Påles](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/pales_gavel.jpg) ](https://github.com/cjbackman/ransundet.nu/raw/gh-pages/assets/images/pales_gavel.jpg)
 
