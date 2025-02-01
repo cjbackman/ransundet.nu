@@ -9,5 +9,7 @@ main:
     url: /info/
   - title: "Galleri"
     url: /gallery/
+  - title: "Karta"
+    url: /map/
   - title: "Kontakt"
     url: /contact/
