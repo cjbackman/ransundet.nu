@@ -1,6 +1,8 @@
 main:
   - title: "Start"
     url: /
+  - title: "Kontakt"
+    url: /contact/
   - title: "Fiske"
     url: /fishing/
   - title: "Boende"
@@ -11,5 +13,5 @@ main:
     url: /gallery/
   - title: "Karta"
     url: /map/
-  - title: "Kontakt"
-    url: /contact/
+  - title: "Ransundsboken"
+    url: /book/
