@@ -7,6 +7,6 @@ Den första Ransundsboken gavs ut år 1996 och berättar historien om byn Ransun
 
 [Klicka här för att ladda ner den första Ransundsboken.](https://drive.google.com/file/d/1XM7r9QBSmndYvVpZU3zkPKHusnr2lOo6/view?usp=sharing){:target="\_blank" rel="noopener noreferrer"}
 
-På uppdrag av Ransundets bysamfällighet och i samband med 200-årsjubileumet författades en andra bok år 2025 av Joel Backman. 
+På uppdrag av Ransundets bysamfällighet och i samband med 200-årsjubileumet gavs en andra bok ut år 2025 författad av Joel Backman. Den andra boken utforskar bland annat gamla boplatser, färdvägar, emigration, immigration, och nutidshistoria. 
 
 [Klicka här för att ladda ner den andra Ransundsboken.](https://drive.google.com/file/d/1JnFbic8SGCV9qMVGHXllvP27lnvRGGJf/view?usp=sharing){:target="\_blank" rel="noopener noreferrer"}
