@@ -39,7 +39,16 @@ Båtar att hyra finns vid vissa fiskevatten inom Ransundets FVO. För frågor g�
 
 ## Bestämmelser
 
-Alla former av sportfiske är tillåtet. Minimimått 25 cm på ädelfisk i Rånden. **Fiske efter öring och röding under lektiden 1 sept - 31 okt är förbjudet**.
+- Alla former av sportfiske är tillåtet.
+- Fiske får ske med ett (1) handredskap/person.
+- Nät och utterfiske är endast tillåtet för fiskrättsägare och dess ättlingar.
+- Minimimått på öring vid fiske i Råndaån är 25cm.
+- Fiske efter öring och röding under lektiden 1 sep.-31 okt. är förbjuden.
+- Fiskekortet är personligt och får inte överlåtas.
+- Barn och ungdomar fiskar gratis till dess att de fyller 15 år.
+- FVO kan besluta om tillfälliga fiskeförbud i vissa vatten.
+- Fiskekortsförsäljarna kan upplysa om var fiskeförbudet råder vid varje tillfälle.
+- En kontrollavgift p å 10% av prisbasbeloppet tas ut av personer som ertappas utan giltigt fiskekort.
 
 ## Tillgänglighet
 
