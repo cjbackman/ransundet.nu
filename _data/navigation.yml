@@ -15,3 +15,39 @@ main:
     url: /map/
   - title: "Ransundsboken"
     url: /book/
+
+main_en:
+  - title: "Home"
+    url: /en/
+  - title: "Contact"
+    url: /en/contact/
+  - title: "Fishing"
+    url: /en/fishing/
+  - title: "Accommodation"
+    url: /en/accommodation/
+  - title: "The village"
+    url: /en/info/
+  - title: "Gallery"
+    url: /en/gallery/
+  - title: "Map"
+    url: /en/map/
+  - title: "Books"
+    url: /en/book/
+
+main_de:
+  - title: "Start"
+    url: /de/
+  - title: "Kontakt"
+    url: /de/contact/
+  - title: "Angeln"
+    url: /de/fishing/
+  - title: "Unterkunft"
+    url: /de/accommodation/
+  - title: "Das Dorf"
+    url: /de/info/
+  - title: "Galerie"
+    url: /de/gallery/
+  - title: "Karte"
+    url: /de/map/
+  - title: "Bücher"
+    url: /de/book/

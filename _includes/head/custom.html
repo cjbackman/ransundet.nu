@@ -4,4 +4,11 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Source+Sans+3:wght@400;600&display=swap">
 
+{% include lang.html %}
+{% unless page.url contains "404" %}
+{% for l in site.data.languages %}{% if l[0] == "sv" %}{% assign alt = lang_base %}{% else %}{% assign alt = "/" | append: l[0] | append: lang_base %}{% endif %}
+<link rel="alternate" hreflang="{{ l[0] }}" href="{{ alt | absolute_url }}">{% endfor %}
+<link rel="alternate" hreflang="x-default" href="{{ lang_base | absolute_url }}">
+{% endunless %}
+
 <!-- end custom head snippets -->

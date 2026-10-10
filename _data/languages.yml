@@ -1,0 +1,12 @@
+sv:
+  name: "Svenska"
+  nav_label: "Huvudmeny"
+  switch_label: "Välj språk"
+en:
+  name: "English"
+  nav_label: "Main menu"
+  switch_label: "Choose language"
+de:
+  name: "Deutsch"
+  nav_label: "Hauptmenü"
+  switch_label: "Sprache wählen"

@@ -1,0 +1,7 @@
+<script>
+  // Point the language switcher at this page's translations (see masthead.html)
+  document.querySelectorAll(".lang-switch a[hreflang]").forEach(function (link) {
+    var alt = document.querySelector('link[rel="alternate"][hreflang="' + link.hreflang + '"]');
+    if (alt) link.href = alt.href;
+  });
+</script>

@@ -1,0 +1,52 @@
+{% comment %}
+  Overrides the theme masthead to pick the navigation for the page language
+  and to add a language switcher. Swedish pages live at /, English at /en/
+  and German at /de/, with identical paths below the prefix.
+
+  The theme caches this include per locale, so nothing here may depend on the
+  individual page. Switcher links point to each language's start page and are
+  upgraded to the same page by a script in footer/custom.html.
+{% endcomment %}
+{% assign locale = include.locale | default: site.locale %}
+{% include lang.html %}
+{% capture logo_path %}{{ site.logo }}{% endcapture %}
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav" aria-label="{{ site.data.languages[lang].nav_label }}">
+        {% unless logo_path == empty %}
+          <a class="site-logo" href="{{ lang_home | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% endunless %}
+        <a class="site-title" href="{{ lang_home | relative_url }}">
+          {{ site.masthead_title | default: site.title | escape_once | strip }}
+        </a>
+        <ul class="visible-links">
+          {%- for link in site.data.navigation[nav_key] -%}
+            <li class="masthead__menu-item">
+              <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+            </li>
+          {%- endfor -%}
+        </ul>
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">{{ site.data.ui-text[locale].menu_label | default: "Toggle menu" }}</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+      <ul class="lang-switch" aria-label="{{ site.data.languages[lang].switch_label }}">
+        {%- for l in site.data.languages -%}
+          {%- assign code = l[0] -%}
+          {%- if code == "sv" -%}
+            {%- assign target = "/" -%}
+          {%- else -%}
+            {%- assign target = "/" | append: code | append: "/" -%}
+          {%- endif -%}
+          <li>
+            <a href="{{ target | relative_url }}" lang="{{ code }}" hreflang="{{ code }}" title="{{ l[1].name }}"{% if code == lang %} aria-current="true"{% endif %}>{{ code | upcase }}</a>
+          </li>
+        {%- endfor -%}
+      </ul>
+    </div>
+  </div>
+</div>

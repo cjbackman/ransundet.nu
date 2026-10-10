@@ -74,3 +74,11 @@ defaults:
       path: "_pages/map.md"
     values:
       classes: wide
+  - scope:
+      path: "_pages/en"
+    values:
+      locale: "en-US"
+  - scope:
+      path: "_pages/de"
+    values:
+      locale: "de-DE"

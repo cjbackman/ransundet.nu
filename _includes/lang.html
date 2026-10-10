@@ -1,0 +1,19 @@
+{% comment %}
+  Sets lang (sv/en/de), nav_key, lang_home and lang_base (the page path
+  without its language prefix) for the current page.
+{% endcomment %}
+{%- assign lang = "sv" -%}
+{%- assign lang_base = page.url -%}
+{%- assign url_parts = page.url | split: "/" -%}
+{%- if url_parts[1] == "en" or url_parts[1] == "de" -%}
+  {%- assign lang = url_parts[1] -%}
+  {%- assign prefix_length = lang.size | plus: 1 -%}
+  {%- assign lang_base = page.url | slice: prefix_length, page.url.size -%}
+{%- endif -%}
+{%- if lang == "sv" -%}
+  {%- assign nav_key = "main" -%}
+  {%- assign lang_home = "/" -%}
+{%- else -%}
+  {%- assign nav_key = "main_" | append: lang -%}
+  {%- assign lang_home = "/" | append: lang | append: "/" -%}
+{%- endif -%}

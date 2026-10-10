@@ -1,0 +1,13 @@
+{% comment %}
+  Renders the gallery defined in the front matter of the Swedish gallery page,
+  so translated gallery pages don't need their own copy of the image list.
+{% endcomment %}
+{% assign source = site.pages | where: "url", "/gallery/" | first %}
+
+<figure class="third">
+  {% for img in source.gallery %}
+    <a href="{{ img.url | relative_url }}">
+      <img src="{{ img.image_path | relative_url }}" alt="">
+    </a>
+  {% endfor %}
+</figure>
