@@ -54,3 +54,23 @@ defaults:
     values:
       layout: single
       author_profile: false
+  - scope:
+      path: "_pages/fishing.md"
+    values:
+      toc: true
+      toc_sticky: true
+      toc_label: "På sidan"
+  - scope:
+      path: "_pages/info.md"
+    values:
+      toc: true
+      toc_sticky: true
+      toc_label: "På sidan"
+  - scope:
+      path: "_pages/gallery.md"
+    values:
+      classes: wide
+  - scope:
+      path: "_pages/map.md"
+    values:
+      classes: wide

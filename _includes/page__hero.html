@@ -1,0 +1,16 @@
+{% comment %}
+  Overrides the theme hero: text beside the image instead of text on top of it.
+{% endcomment %}
+{% assign image_description = page.header.image_description | default: page.title | markdownify | strip_html | strip_newlines | escape_once %}
+
+<div class="page__hero--split">
+  <div class="page__hero-text">
+    <h1 id="page-title" class="page__title" itemprop="headline">
+      {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
+    </h1>
+    {% if page.excerpt %}
+      <p class="page__lead">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+    {% endif %}
+  </div>
+  <img src="{{ page.header.overlay_image | default: page.header.image | relative_url }}" alt="{{ image_description }}" class="page__hero-image">
+</div>
