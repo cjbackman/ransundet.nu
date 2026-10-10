@@ -1,0 +1,17 @@
+{% comment %}
+  Overrides the theme gallery: lazy-loads images and gives each link an
+  accessible name, since the gallery images have no alt text. Pass
+  images=... to render another page's list (see gallery_shared.html).
+{% endcomment %}
+{% include lang.html %}
+{% assign gallery = include.images | default: page.gallery %}
+{% assign label = site.data.languages[lang].photo_label | replace: "%total", gallery.size %}
+
+<figure class="{{ include.layout | default: 'third' }} {{ include.class }}">
+  {% for img in gallery %}
+    <a href="{{ img.url | default: img.image_path | relative_url }}"
+       aria-label="{{ label | replace: '%n', forloop.index }}">
+      <img src="{{ img.image_path | relative_url }}" alt="" loading="lazy" decoding="async">
+    </a>
+  {% endfor %}
+</figure>

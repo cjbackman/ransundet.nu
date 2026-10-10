@@ -1,25 +1,4 @@
-<html>
-<head>
-  <style>
-  .map-responsive {
-    overflow:hidden;
-    padding-bottom:56.25%;
-    position:relative;
-    height:0;
-  }
-  
-  .map-responsive iframe {
-    left:0;
-    top:0;
-    height:100%;
-    width:100%;
-    position:absolute;
-    }
-  </style>
-</head>
-<body>
-  <div class="map-responsive">
-    <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1aoEiurtllveSY5jToperdGSu_BPmG7nj&ehbc=2E312F" width="640" height="480"></iframe>
-  </div>
-</body>
-</html>
+{% include lang.html %}
+<div class="map-responsive">
+  <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1aoEiurtllveSY5jToperdGSu_BPmG7nj&ehbc=2E312F" title="{{ site.data.languages[lang].map_title }}" loading="lazy"></iframe>
+</div>

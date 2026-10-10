@@ -2,11 +2,17 @@ sv:
   name: "Svenska"
   nav_label: "Huvudmeny"
   switch_label: "Välj språk"
+  photo_label: "Bild %n av %total"
+  map_title: "Interaktiv karta över Ransundet"
 en:
   name: "English"
   nav_label: "Main menu"
   switch_label: "Choose language"
+  photo_label: "Photo %n of %total"
+  map_title: "Interactive map of Ransundet"
 de:
   name: "Deutsch"
   nav_label: "Hauptmenü"
   switch_label: "Sprache wählen"
+  photo_label: "Foto %n von %total"
+  map_title: "Interaktive Karte von Ransundet"
