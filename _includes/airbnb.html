@@ -1,1 +1,27 @@
-<div class="iframely-embed" style="min-width: 450px;"><div class="iframely-responsive" style="height: 300px; padding-bottom: 0;"><a href="https://www.airbnb.se/rooms/14817516" data-iframely-url="//cdn.iframe.ly/JecbT0m"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
+{% comment %}
+  Airbnb's official listing embed (Listing → Share → Embed). Airbnb's script
+  replaces the links with an untitled iframe, so give it a title once it
+  appears; the links remain as the no-JavaScript fallback.
+{% endcomment %}
+{% include lang.html %}
+{% assign airbnb_url = "https://www.airbnb.com/rooms/14817516?source=embed_widget" %}
+<div class="airbnb-embed-frame" data-id="14817516" data-view="home" data-hide-price="true">
+  <a href="{{ airbnb_url }}">{{ site.data.languages[lang].airbnb_link }}</a>
+  <a href="{{ airbnb_url }}" rel="nofollow">Idylliskt hus mitt i Härjedalen</a>
+  <script async src="https://www.airbnb.com/embeddable/airbnb_jssdk"></script>
+</div>
+<script>
+  (function () {
+    var frame = document.querySelector(".airbnb-embed-frame");
+    if (!frame) return;
+    function setTitle() {
+      var iframe = frame.querySelector("iframe");
+      if (iframe) iframe.title = {{ site.data.languages[lang].airbnb_title | jsonify }};
+      return !!iframe;
+    }
+    if (setTitle() || !window.MutationObserver) return;
+    new MutationObserver(function (changes, observer) {
+      if (setTitle()) observer.disconnect();
+    }).observe(frame, { childList: true, subtree: true });
+  })();
+</script>
